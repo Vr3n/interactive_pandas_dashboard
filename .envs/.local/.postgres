@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=interactive_pandas_dashboard
+POSTGRES_USER=QCURlTRibMWoIgvfpqubzbDRFDuYkSpD
+POSTGRES_PASSWORD=v5LcfYU70EI8mpXIaNN97WoPPRESHepws3EE3AzqqRyHZLjpGGi2jzHCE2cCkJwe
