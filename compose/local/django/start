@@ -6,4 +6,5 @@ set -o nounset
 
 
 python manage.py migrate
+# exec tailwindcss -i ./interactive_pandas_dashboard/static/css/main.css -o ./interactive_pandas_dashboard/static/css/styles.css --watch
 exec python manage.py runserver_plus 0.0.0.0:8000
